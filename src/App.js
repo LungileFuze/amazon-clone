@@ -8,10 +8,10 @@ function App() {
   return (
     <div>
       <h1>Amazon Clone</h1>
-      <Route path='/home'>
+      <Route path='/Home'>
         <Home />
       </Route>
-      <Route path='/products'>
+      <Route path='/Products'>
         <Products />
       </Route>
       
